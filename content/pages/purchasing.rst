@@ -6,7 +6,8 @@ EME 185 A/B Capstone MAE Purchasing And Out-Of-Pocket Reimbursement Guidelines
 Key Guidelines
 ==============
 
-- Expenses must first be approved before purchased.
+- Expenses must first be approved before purchased.  
+- You are allowed two changes to your BOM which must be approved.
 - The University does not have an Amazon Prime account.
 - We've been having issues getting POs for Home Depot, please send a request
   for a reimbursement prior to making a purchase.
@@ -157,7 +158,7 @@ exceed $500 per receipt.**
 - Submit the completed form, along with original receipts, to one of the MAE
   staff, 2132 Bainer Office.
 
-
+Engineering Change Orders
 ====
 As professional engineers, you have a fiduciary responsibility to spend your sponsor’s funds in the best interest of the project.  Therefore, it is critical that you plan your purchases prudently.  That said, there is no way to foresee all the stumbling blocks that will occur over the course of this quarter and additional purchases are almost certain.  
 
