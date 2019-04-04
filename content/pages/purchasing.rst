@@ -157,6 +157,19 @@ exceed $500 per receipt.**
 - Submit the completed form, along with original receipts, to one of the MAE
   staff, 2132 Bainer Office.
 
+
+====
+As professional engineers, you have a fiduciary responsibility to spend your sponsor’s funds in the best interest of the project.  Therefore, it is critical that you plan your purchases prudently.  That said, there is no way to foresee all the stumbling blocks that will occur over the course of this quarter and additional purchases are almost certain.  
+
+During this portion of the project, we will be implementing an element of what it known as an Engineering Change Order (ECO).  This is a procedure which you will encounter in your professional careers.  Its purpose is simple: any changes to your Bill of Materials must be justified and approved before funds are released.  
+
+The first BOM was submitted as part of your Preliminary Design Report.  We will be placing a cap of two additional BOM changes for the quarter.  Each of these changes must be justified with a one-page memo answereing each of the following questions:  
+-What are you changing?
+-Why are you chainging it?
+-What do you need to purchase in order to facilitate this change?
+
+You must also submit an abridged BOM of the changes indicating what additionally is needed including all vendors, part numbers, quantities and cost.  The new BOM can be an attachment and need not fit within the one-page limit of the memo.   These will be sent to the instructor, your TA, and your sponsor for approval.
+
 Tips
 ====
 
